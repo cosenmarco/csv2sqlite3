@@ -1,0 +1,8 @@
+= CSV2SQLITE3
+A very simple script to insert data into an existing sqlite3 table from CSV.
+
+== Dependencies
+The script is written in php. Sqlite and PDO extensions must be installed.
+
+== Usage
+Run the script without arguments to print the usage.
